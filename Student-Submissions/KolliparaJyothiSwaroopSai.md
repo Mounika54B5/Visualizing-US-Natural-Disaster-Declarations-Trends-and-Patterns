@@ -1,10 +1,15 @@
 Full Name : Kollipara Jyothi Swaroop Sai
 
 🎓 Basic Information
+
 College: Prasad V Potluri Siddhartha Institute Of Technology
+
 Branch: Computer Science (Data Science) Engineering
+
 Year: 3rd Year 2nd Semester
+
 Batch: 2023 - 2027
+
 Infosys Batch: 11
 
 🔗 GitHub Profile
