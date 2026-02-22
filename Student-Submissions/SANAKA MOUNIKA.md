@@ -3,6 +3,12 @@
 # Github Profile
 https://github.com/Mounika54B5
 
+# Basic Information
+College: DVR & Dr.HS MIC College of Technology
+Branch:Artificial Intelligence and Data Science
+Year: 4th year
+Batch: 11
+
 
 #Project Repository
 https://github.com/Mounika54B5/Visualizing-US-Natural-Disaster-Declarations
