@@ -1,11 +1,34 @@
+
+
+
+
 # SANAKA MOUNIKA
+🎓 Basic Information
+College:DVR & Dr.HS MIC College of Technology
+Branch:Artificial Intelligence and Data Science
+Year: 4 th year
+Batch: 11
 
 # Github Profile
-https://github.com/Mounika54B5
+https://github.com/Mounika54B5 
 
+📊 Power BI Project
+Project Name :Visualizing US Natural Disaster Declarations
 
-#Project Repository
+Description:
+#Repository Link:
 https://github.com/Mounika54B5/Visualizing-US-Natural-Disaster-Declarations
+Live Dashboard: https://github.com/Mounika54B5/Visualizing-US-Natural-Disaster-Declarations/blob/main/PowerBI/Final%20Dashboard/FEMA_DATA.pbix
+
+
+Description about your project
+🚀 Skills
+Power BI
+Data cleaning...etc
+
+
+
+
 
 
 #Visualizing US Natural Disaster Declarations
